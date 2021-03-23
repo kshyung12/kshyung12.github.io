@@ -1,7 +1,6 @@
 ---
 title: "쇼핑몰 운영정책"
 categories:
-  - IT
   - 기획
 tags:
   - 운영정책
