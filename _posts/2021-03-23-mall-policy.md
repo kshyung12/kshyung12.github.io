@@ -1,10 +1,11 @@
 ---
 title: "쇼핑몰 운영정책"
 categories:
-  - Post Formats
+  - IT
+  - 기획
 tags:
-  - image
-  - Post Formats
+  - 운영정책
+  - 쇼핑몰
 ---
    
 # 회원 정책
