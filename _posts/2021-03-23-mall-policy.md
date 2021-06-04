@@ -1,10 +1,9 @@
 ---
 title: "쇼핑몰 운영정책"
 categories:
-  - 기획
+  - note
 tags:
   - 운영정책
-  - 쇼핑몰
 ---
    
 # 회원 정책
